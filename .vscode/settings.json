@@ -1,0 +1,10 @@
+{
+    "python.testing.pytestArgs": [
+        // "users/tests/test_location.py"
+        // "users/tests/test_user.py",
+        "patients/tests/test_patient.py",
+        // "vitals/tests/test_heartrate.py"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
